@@ -1,0 +1,9 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@100&family=Caveat&family=Cinzel&family=Inclusive+Sans&family=Indie+Flower&family=Inter&family=Itim&family=Josefin+Sans&family=Lugrasimo&family=Merriweather+Sans:ital,wght@1,300&family=Montserrat+Alternates:wght@500&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600&family=Noto+Sans:ital,wght@1,700&family=Nunito:wght@500&family=Open+Sans&family=PT+Sans&family=Padauk:wght@700&family=Pixelify+Sans&family=Preahvihear&family=Public+Sans:wght@200&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,100;1,400;1,500&family=Ruda&family=Signika&family=Space+Grotesk:wght@500&family=Tektur:wght@500&family=Titillium+Web&family=Ubuntu:ital,wght@0,300;0,400;1,300&family=Young+Serif&family=Ysabeau+Infant&family=Ysabeau+Office&display=swap');
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
